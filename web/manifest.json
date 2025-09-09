@@ -1,0 +1,35 @@
+{
+    "name": "DetectHans - Detecção de Hanseníase",
+    "short_name": "DetectHans",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#69299E",
+    "theme_color": "#69299E",
+    "description": "Aplicativo para detecção e educação sobre hanseníase. Autoavaliação de sintomas, informações sobre diagnóstico e tratamento.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
