@@ -109,7 +109,7 @@ class _StoryPageState extends State<StoryPage> {
     return Scaffold(
       backgroundColor: Colors.white,
       body: SafeArea(
-        child: Container(
+        child: SizedBox(
           width: double.infinity,
           height:
               size.height -
